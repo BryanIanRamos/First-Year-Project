@@ -1,0 +1,41 @@
+.border {
+	position: relative;
+	top: 360px;
+	left: 340px;
+	width: 800px;
+	height: 380px;
+	text-align: center;
+	font-family: times new roman;
+	font-size: 30px;
+	color: black;
+	background-color: #F6DDCC;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border: 5px inset darkred;
+}
+
+html {
+	background-image: url(../Image/imageback5.gif);
+}
+
+h2 p {
+	padding: 20px 20px 20px 20px;
+
+}
+
+.Timeline {
+	position: relative;
+	top: -390px;
+	left: 480px;
+	box-shadow: 2px 5px 2px 2px grey;
+}
+
+a {
+	position: relative;
+	top: 40px;
+	left: 720px;
+	border: 2px solid black;
+	background-color: lightslategray;
+	text-decoration: none;
+	color: black;
+}
